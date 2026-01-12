@@ -3,16 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Japheth’s Portfolio</title>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 
 <header class="hero">
-  <h1>Uche Japheth</h1>
+  <h1>Japheth's Portfolio</h1>
   <p>
-  <h2>Japheth</h2>
-<p><strong>Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist</strong></p>
+  <h2>This is Japheth |</h2>
+<p><strong>A Web3 On-Chain Visionary • Project Analyst • Community & Growth Strategist</strong></p>
 <p>
 Analyzing on-chain systems, shaping clear narratives, and helping Web3 projects grow through insight-driven strategy and community alignment.
 </p>
