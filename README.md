@@ -5,7 +5,6 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <img src="https://github.com/user-attachments/assets/1aef9d46-8a87-4e82-b6c7-5ecf11d0ca60alt" alt="profile" class="circle-img>
 
 <header class="hero">
   <h1>Japheth's Portfolio</h1>
