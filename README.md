@@ -272,21 +272,131 @@ By combining decentralized community building with real-world professional stand
 
 </section>
 
-</body>
-</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Contact</title>
+<style>
+  body {
+    font-family: Inter, Arial, sans-serif;
+    background-color: #ffffff;
+    color: #1a1a1a;
+  }
 
-</section>
+  .contact-section {
+    max-width: 900px;
+    margin: 80px auto;
+    padding: 0 20px;
+  }
 
-<section>
-  <h3>Contact</h3>
-  <p>X: <a href="https://x.com/japhonchain"> @JaphOnChain</a></p>
-  <p>Telegram: <a href="https://t.me/jap_eel">@jap_eel</a></p>
+  .contact-section h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 10px;
+  }
+
+  .contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 25px;
+  }
+
+  .contact-item {
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    padding: 20px;
+  }
+
+  .contact-item strong {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
+
+  .contact-item a {
+    color: #0066cc;
+    text-decoration: none;
+    word-break: break-word;
+  }
+
+  .contact-item a:hover {
+    text-decoration: underline;
+  }
+
+  .contact-item span {
+    color: #333;
+  }
+
+  footer {
+    margin-top: 100px;
+    padding: 30px 20px;
+    border-top: 1px solid #e5e5e5;
+    text-align: center;
+    color: #555;
+    font-size: 14px;
+  }
+
+  footer p {
+    margin: 5px 0;
+  }
+</style>
+</head>
+
+<body>
+
+<section class="contact-section">
+  <h2>Contact</h2>
+
+  <div class="contact-grid">
+
+   <div class="contact-item">
+      <strong>X (Twitter)</strong>
+      <span>@JaphOnChain</span><br>
+      <a href="https://t.co/3gvRQv9KOo" target="_blank">https://t.co/3gvRQv9KOo</a>
+    </div>
+
+  <div class="contact-item">
+      <strong>Linktree</strong>
+      <a href="https://t.co/hoaF8ICNDr" target="_blank">https://t.co/hoaF8ICNDr</a>
+    </div>
+
+   <div class="contact-item">
+      <strong>LinkedIn</strong>
+      <a href="https://t.co/SvIW34ycfw" target="_blank">https://t.co/SvIW34ycfw</a>
+    </div>
+    <div class="contact-item">
+      <strong>Telegram</strong>
+      <a href="https://t.co/xTe9YHANCO" target="_blank">https://t.co/xTe9YHANCO</a>
+    </div>
+
+  <div class="contact-item">
+      <strong>Discord</strong>
+      <span>@japhethcamzy</span>
+    </div>
+
+   <div class="contact-item">
+      <strong>Email</strong>
+      <span>camzyxworld@gmail.com</span><br>
+      <span>japhethcamzy@gmail.com</span><br>
+      <span>uche@techracine.com.ng</span>
+    </div>
+
+  <div class="contact-item">
+   <strong>Phone / WhatsApp</strong>
+   <span>+234 915 366 1595</span>
+   </div>
+
+  </div>
 </section>
 
 <footer>
-  <p>© 2026 Japheth’s Portfolio. Designed with passion.</p>
+  <p>© 2026 Japheth’s Portfolio. All rights reserved.</p>
+  <p>Designed and developed with passion by Japheth — building communities that last.</p>
 </footer>
 
 </body>
 </html>
+
 [style.css](https://github.com/user-attachments/files/24568483/style.css)
