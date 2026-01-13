@@ -344,7 +344,7 @@
   <div class="contact-grid">
 
    <div class="contact-item">
-      <strong>X (Twitter)</strong>
+      [![](img.shields.io)](twitter.com)
       <span>@JaphOnChain</span><br>
       <a href="https://t.co/3gvRQv9KOo" target="_blank">https://t.co/3gvRQv9KOo</a>
     </div>
