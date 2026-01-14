@@ -1,0 +1,15 @@
+title: "Japheth's Portfolio"
+description: " Web3 community manager and growth strategist helping DeFi, AI, and GameFi projects grow through on-chain insight, structured engagement, and long-term community alignment."
+baseurl: "" # use if your site is served from a subpath
+url: "https://your-username.github.io" # replace with your site URL
+author:
+  name: "Japheth"
+  email: "camzyxworld@gmail.com"
+  twitter: "JaphOnChain"
+theme: minima
+markdown: kramdown
+plugins: []
+exclude:
+  - node_modules
+  - vendor
+permalink: /:categories/:title/
